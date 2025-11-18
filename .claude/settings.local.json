@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Aika Nakamura v2 - Portfolio Website\n\nPortfolio/site corporativo para Aika Nakamura, assistente digital desenvolvida por Felipe Nakamura.\n\nStack Tecnológica:\n- Nuxt.js 4.2.1\n- Vue.js 3.5.22\n- TypeScript\n- Tailwind CSS 3.4.18\n- EmailJS para sistema de contato\n\nCaracterísticas:\n✨ Design cyberpunk/futurista com estética tech\n📱 Totalmente responsivo (mobile-first approach)\n🎨 Componentes separados para desktop e mobile\n🚀 Performance otimizada\n💼 Seções: Hero, Serviços, Sobre Aika, Contato\n🎯 Sistema de contato via EmailJS\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git config:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(echo:*)"
     ],
     "deny": [],
     "ask": []

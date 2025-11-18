@@ -54,7 +54,7 @@
     <!-- Aika Character -->
     <div class="absolute left-1/2 -translate-x-1/2 top-[458px] w-[339px] h-[339px] z-10">
       <img
-        src="/imagens/AikaNakamura-02-mobile.png"
+        src="/imagens/aika-nakamura-02-mobile.png"
         alt="Aika Nakamura"
         class="absolute inset-0 w-full h-full object-cover object-center pointer-events-none"
       />
