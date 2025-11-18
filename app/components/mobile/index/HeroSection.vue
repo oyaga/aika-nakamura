@@ -58,23 +58,23 @@
       <!-- Main Character Section -->
       <div class="absolute left-1/2 -translate-x-1/2 size-[400px] top-[100px]" data-name="Bem-Vindo Aika">
         <!-- Neon Background Effects -->
-        <div class="absolute left-1/2 -translate-x-1/2 top-[53px]">
-          <div class="absolute size-[295px]">
+        <div class="absolute left-1/2 -translate-x-1/2 top-[53px] w-[295px] h-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-10.17%]">
               <img alt="" class="block max-w-none size-full" :src="imgSpread" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-2.88%]">
               <img alt="" class="block max-w-none size-full" :src="imgIntensity" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-43.59%]">
               <img alt="" class="block max-w-none size-full" :src="imgOriginal" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <img alt="" class="block max-w-none size-full" height="295" :src="imgEllipse6" width="295" />
           </div>
         </div>
