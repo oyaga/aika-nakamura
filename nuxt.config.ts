@@ -6,7 +6,21 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      viewport: 'width=device-width, initial-scale=1, viewport-fit=cover'
+      htmlAttrs: {
+        lang: 'pt-BR'
+      },
+      charset: 'utf-8',
+      viewport: 'width=device-width, initial-scale=1, viewport-fit=cover',
+      title: 'Aika',
+      titleTemplate: '%s | Aika',
+      meta: [
+        { name: 'description', content: 'Aika - Agência de Criação de Sites, Aplicativos e Sistemas com IA.' },
+        // Open Graph
+        { property: 'og:title', content: 'Aika - Agência de Criação de Sites, Aplicativos e Sistemas com IA' },
+        { property: 'og:description', content: 'Potencialize seu negócio com a Aika. Somos especialistas na criação de sites, aplicativos e sistemas personalizados, integrando inteligência artificial para resultados incríveis.' },
+        { property: 'og:image', content: '/aika-samurai-v2.png' }, // Assuming a default image in public folder
+        { property: 'og:type', content: 'website' }
+      ]
     }
   },
 

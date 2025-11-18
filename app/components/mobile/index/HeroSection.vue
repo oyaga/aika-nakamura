@@ -56,7 +56,7 @@
       </div>
 
       <!-- Main Character Section -->
-      <div class="absolute left-[15px] size-[400px] top-[100px]" data-name="Bem-Vindo Aika">
+      <div class="absolute left-1/2 -translate-x-1/2 size-[400px] top-[100px]" data-name="Bem-Vindo Aika">
         <!-- Neon Background Effects -->
         <div class="absolute left-[52px] top-[53px]">
           <div class="absolute size-[295px]">

@@ -1,2 +1,6 @@
 User-Agent: *
 Disallow:
+
+# Sitemap
+# Descomente a linha abaixo e substitua pela URL do seu site quando o sitemap estiver configurado.
+# Sitemap: https://aika.com.br/sitemap.xml
