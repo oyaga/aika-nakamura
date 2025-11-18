@@ -80,7 +80,7 @@
         </div>
 
         <!-- Hero Character Image -->
-        <div class="absolute left-[-11px] size-[434px] top-[10px]">
+        <div class="absolute left-1/2 -translate-x-1/2 size-[434px] top-[10px]">
           <img
             alt="Aika Nakamura Mascote"
             class="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full floating-mascot"
