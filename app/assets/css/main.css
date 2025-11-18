@@ -1,0 +1,4 @@
+body {
+  background: url('/imagens/hero-bg.png') no-repeat center center, radial-gradient(circle at 50% 50%, rgba(255, 90, 2, 1) 0%, rgba(128, 45, 1, 1) 100%);
+  background-size: cover;
+}
