@@ -1,6 +1,9 @@
 <template>
   <!-- Header -->
-  <header class="absolute top-[2%] md:top-[3%] left-0 right-0 flex justify-between items-center px-[4%] z-50">
+  <header
+    class="absolute top-[2%] md:top-[3%] left-0 right-0 flex justify-between items-center px-[4%] z-50"
+    :class="{ 'header-with-shadow': isContatoPage }"
+  >
     <NuxtLink to="/" class="text-white w-[180px] md:w-[362px]">
       <h1 class="text-[20px] md:text-[40px] font-extrabold font-['Inter'] leading-[1.15] md:leading-[46px] tracking-tight">AIKA NAKAMURA</h1>
       <p class="text-[8px] md:text-[12px] text-center font-['Inter'] leading-normal mt-[3px] md:mt-[5px]">
@@ -139,6 +142,9 @@ const route = useRoute()
 watch(() => route.path, () => {
   menuOpen.value = false
 })
+
+// Detect if we're on contato page for styling
+const isContatoPage = computed(() => route.path === '/contato')
 </script>
 
 <style scoped>
@@ -156,5 +162,15 @@ watch(() => route.path, () => {
 .menu-enter-to,
 .menu-leave-from {
   opacity: 1;
+}
+
+/* Header shadow for better visibility on light backgrounds */
+.header-with-shadow h1,
+.header-with-shadow p {
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.header-with-shadow svg rect {
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.4));
 }
 </style>
