@@ -58,7 +58,7 @@
       <!-- Main Character Section -->
       <div class="absolute left-1/2 -translate-x-1/2 size-[400px] top-[100px]" data-name="Bem-Vindo Aika">
         <!-- Neon Background Effects -->
-        <div class="absolute left-[52px] top-[53px]">
+        <div class="absolute left-1/2 -translate-x-1/2 top-[53px]">
           <div class="absolute size-[295px]">
             <div class="absolute inset-[-10.17%]">
               <img alt="" class="block max-w-none size-full" :src="imgSpread" />
@@ -90,7 +90,7 @@
       </div>
 
         <!-- Badge - Velocidade -->
-      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[5px] h-[22px] items-center justify-center left-[278px] overflow-clip p-[10px] rounded-[10px] top-[371px] w-[112px]">
+      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[5px] h-[22px] items-center justify-center right-[5%] overflow-clip p-[10px] rounded-[10px] top-[371px] w-[112px]">
         <div class="grid grid-cols-[max-content] grid-rows-[max-content] justify-items-start leading-[0] relative shrink-0">
           <div class="col-[1] grid grid-cols-[max-content] grid-rows-[max-content] justify-items-start ml-[4.27%] mt-[1.46%] relative row-[1]">
             <div class="col-[1] h-[14.038px] ml-0 mt-0 relative row-[1] w-[9.152px]">
@@ -107,7 +107,7 @@
       </div>
 
         <!-- Badge - Criatividade -->
-      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[5px] h-[21px] items-center justify-center left-[20px] overflow-clip p-[10px] rounded-[10px] top-[185px] w-[118px]">
+      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[5px] h-[21px] items-center justify-center left-[5%] overflow-clip p-[10px] rounded-[10px] top-[185px] w-[118px]">
         <div class="h-[14.942px] relative shrink-0 w-[12px]">
           <img alt="" class="block max-w-none size-full" :src="imgIconCriatividade" />
         </div>
@@ -117,7 +117,7 @@
       </div>
 
         <!-- Badge - Inovação -->
-      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[7px] h-[22px] items-center justify-center left-[286px] overflow-clip pb-[12px] pt-[10px] px-[10px] rounded-[10px] top-[310px] w-[105px]">
+      <div class="absolute bg-[rgba(30,30,30,0.8)] flex gap-[7px] h-[22px] items-center justify-center right-[5%] overflow-clip pb-[12px] pt-[10px] px-[10px] rounded-[10px] top-[310px] w-[105px]">
         <div class="relative shrink-0 size-[13px]">
           <img alt="" class="block max-w-none size-full" :src="imgIconFoguete" />
         </div>
