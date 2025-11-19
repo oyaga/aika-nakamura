@@ -168,19 +168,19 @@
       <div class="hidden md:block">
         <!-- Badge DESIGNER -->
         <div class="absolute left-[200px] top-[733px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[251px] h-[43px]">
-          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESIGNER</p>
         </div>
 
         <!-- Badge AGENTE -->
         <div class="absolute left-[416px] top-[979px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[20px] w-[204px] h-[43px]">
-          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">AGENTE</p>
         </div>
 
         <!-- Badge DESENVOLVEDORA -->
         <div class="absolute left-[1090px] top-[852px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[356px] h-[43px]">
-          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESENVOLVEDORA</p>
         </div>
       </div>
@@ -189,19 +189,19 @@
       <div class="md:hidden absolute top-[740px] left-1/2 -translate-x-1/2 flex flex-col gap-[12px] items-center w-full px-4 z-40 pb-[50px]">
         <!-- Badge DESIGNER -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[12px] py-[8px] flex items-center justify-center gap-[10px] w-full max-w-[260px] h-[42px] badge-fade-in badge-delay-1 shadow-lg">
-          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[20px] h-[20px]">
+          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[20px] h-[20px]" />
           <p class="font-michroma text-[12px] text-white tracking-[1px] leading-normal">DESIGNER</p>
         </div>
 
         <!-- Badge AGENTE -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[12px] py-[8px] flex items-center justify-center gap-[10px] w-full max-w-[260px] h-[42px] badge-fade-in badge-delay-2 shadow-lg">
-          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[20px] h-[20px]">
+          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[20px] h-[20px]" />
           <p class="font-michroma text-[12px] text-white tracking-[1px] leading-normal">AGENTE</p>
         </div>
 
         <!-- Badge DESENVOLVEDORA -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[10px] py-[8px] flex items-center justify-center gap-[6px] w-full max-w-[280px] h-[42px] badge-fade-in badge-delay-3 shadow-lg">
-          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[18px] h-[18px]">
+          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[18px] h-[18px]" />
           <p class="font-michroma text-[10px] text-white tracking-[0.5px] leading-normal whitespace-nowrap">DESENVOLVEDORA</p>
         </div>
       </div>
