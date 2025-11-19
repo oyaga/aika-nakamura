@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/scripts', '@nuxtjs/tailwindcss', '@nuxt/fonts', '@nuxtjs/device'],
+  modules: ['@nuxt/scripts', '@nuxtjs/tailwindcss', '@nuxt/fonts', '@nuxtjs/device', '@nuxt/image'],
 
   app: {
     head: {

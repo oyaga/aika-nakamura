@@ -54,58 +54,58 @@
     <div class="absolute left-[50%] top-[55%] w-[46.4vw] h-[46.4vw] max-w-[800px] max-h-[800px] z-20" style="transform: translate(-50%, -50%);">
       <div class="relative w-full h-full">
         <!-- Neon Background -->
-        <img src="/svg/neon-bg.svg" alt="Neon Background" class="absolute left-[4.3%] top-[4.5%] w-[91%] h-[91%]" />
+        <NuxtImg src="/svg/neon-bg.svg" alt="Neon Background" class="absolute left-[4.3%] top-[4.5%] w-[91%] h-[91%]" />
         <!-- Mascote -->
-        <img src="/imagens/mascote.png" alt="Mascote" class="absolute left-[7.5%] top-[10%] w-[85%] h-[85%] floating-mascot" />
+        <NuxtImg src="/imagens/mascote.png" alt="Mascote" class="absolute left-[7.5%] top-[10%] w-[85%] h-[85%] floating-mascot" />
       </div>
     </div>
 
     <!-- Badges -->
     <div class="absolute top-[35%] left-[26%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[260px] justify-center overflow-hidden z-30 shadow-lg">
-      <img src="/svg/icon-criatividade.svg" alt="Criatividade" class="w-[25px] h-[25px] shrink-0" />
+      <NuxtImg src="/svg/icon-criatividade.svg" alt="Criatividade" class="w-[25px] h-[25px] shrink-0" />
       <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">CRIATIVIDADE</span>
     </div>
     <div class="absolute top-[53%] left-[60%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[44px] w-[243px] justify-center overflow-hidden z-30 shadow-lg">
-      <img src="/svg/icon-foguete.svg" alt="Inovação" class="w-[25px] h-[25px] shrink-0" />
+      <NuxtImg src="/svg/icon-foguete.svg" alt="Inovação" class="w-[25px] h-[25px] shrink-0" />
       <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">INOVAÇÃO</span>
     </div>
     <div class="absolute top-[68%] left-[57%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[249px] justify-center overflow-hidden z-30 shadow-lg">
-      <img src="/svg/icon-velocidade.svg" alt="Velocidade" class="w-[20px] h-[28px] shrink-0" />
+      <NuxtImg src="/svg/icon-velocidade.svg" alt="Velocidade" class="w-[20px] h-[28px] shrink-0" />
       <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">VELOCIDADE</span>
     </div>
 
     <!-- Corner Arrows -->
     <div class="absolute flex items-center justify-center left-[2.4%] top-[3.1%] z-40">
       <div class="flex-none">
-        <img src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+        <NuxtImg src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
       </div>
     </div>
     <div class="absolute flex items-center justify-center left-[2.8%] bottom-[4%] z-40">
       <div class="flex-none">
-        <img src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+        <NuxtImg src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
       </div>
     </div>
     <div class="absolute flex items-center justify-center right-[2.8%] bottom-[4%] z-40">
       <div class="flex-none">
-        <img src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+        <NuxtImg src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
       </div>
     </div>
     <div class="absolute flex items-center justify-center right-[2.4%] top-[3.1%] z-40">
       <div class="flex-none">
-        <img src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+        <NuxtImg src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
       </div>
     </div>
 
     <!-- Line Effects -->
-    <img src="/svg/line-effect-left.svg" alt="Line Effect Left" class="absolute left-[3.4%] top-1/2 -translate-y-1/2 w-[161px] z-20 opacity-95" />
-    <img src="/svg/line-effect-right.svg" alt="Line Effect Right" class="absolute right-[3.4%] top-1/2 -translate-y-1/2 w-[161px] z-20 opacity-95" />
+    <NuxtImg src="/svg/line-effect-left.svg" alt="Line Effect Left" class="absolute left-[3.4%] top-1/2 -translate-y-1/2 w-[161px] z-20 opacity-95" />
+    <NuxtImg src="/svg/line-effect-right.svg" alt="Line Effect Right" class="absolute right-[3.4%] top-1/2 -translate-y-1/2 w-[161px] z-20 opacity-95" />
 
     <!-- Bottom Arrows -->
     <div class="absolute left-[4%] bottom-[9.3%] z-20">
-      <img src="/svg/arrow-double-chevron.svg" alt="Arrow Left" class="w-[96px] h-[96px]" />
+      <NuxtImg src="/svg/arrow-double-chevron.svg" alt="Arrow Left" class="w-[96px] h-[96px]" />
     </div>
     <div class="absolute right-[4%] bottom-[9.3%] z-20">
-      <img src="/svg/arrow-double-chevron.svg" alt="Arrow Right" class="w-[96px] h-[96px] transform -scale-x-100" />
+      <NuxtImg src="/svg/arrow-double-chevron.svg" alt="Arrow Right" class="w-[96px] h-[96px] transform -scale-x-100" />
     </div>
     </div>
   </div>

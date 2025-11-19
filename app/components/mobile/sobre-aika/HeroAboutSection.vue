@@ -79,19 +79,19 @@
         <div class="absolute bottom-[10%] left-1/2 -translate-x-1/2 flex flex-col gap-[15px] items-center justify-center z-30 w-[90%] max-w-[340px]">
           <!-- Badge - Guardiã Digital -->
           <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-1">
-            <img src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[24px] h-[24px] shrink-0" />
+            <NuxtImg src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[24px] h-[24px] shrink-0" />
             <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Guardiã Digital</span>
           </div>
 
           <!-- Badge - Execução Impecável -->
           <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-2">
-            <img src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[24px] h-[24px] shrink-0" />
+            <NuxtImg src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[24px] h-[24px] shrink-0" />
             <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Execução Impecável</span>
           </div>
 
           <!-- Badge - Análise Preditiva -->
           <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-3">
-            <img src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[24px] h-[24px] shrink-0" />
+            <NuxtImg src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[24px] h-[24px] shrink-0" />
             <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Análise Preditiva</span>
           </div>
         </div>
@@ -109,24 +109,24 @@
       <!-- Corner Arrows -->
       <div class="absolute flex items-center justify-center left-[2.4%] top-[3.1%] z-40">
         <div class="flex-none">
-          <img src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
       </div>
       <div class="absolute flex items-center justify-center left-[2.8%] bottom-[4%] z-40">
         <div class="flex-none">
-          <img src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
-          <img src="/svg/arrow-double-chevron.svg" alt="Double Chevron" class="absolute w-[40px] h-[40px] bottom-5 left-[40px] left-1/2 -translate-x-1/2" />
+          <NuxtImg src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-double-chevron.svg" alt="Double Chevron" class="absolute w-[40px] h-[40px] bottom-5 left-[40px] left-1/2 -translate-x-1/2" />
         </div>
       </div>
       <div class="absolute flex items-center justify-center right-[2.8%] bottom-[4%] z-40">
         <div class="flex-none">
-          <img src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
-          <img src="/svg/arrow-double-chevron.svg" alt="Double Chevron" class="absolute w-[40px] h-[40px] bottom-5 left-[10px] left-1/2 -translate-x-1/2" />
+          <NuxtImg src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-double-chevron.svg" alt="Double Chevron" class="absolute w-[40px] h-[40px] bottom-5 left-[10px] left-1/2 -translate-x-1/2" />
         </div>
       </div>
       <div class="absolute flex items-center justify-center right-[2.4%] top-[3.1%] z-40">
         <div class="flex-none">
-          <img src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
       </div>
     </div>

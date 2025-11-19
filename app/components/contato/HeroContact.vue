@@ -33,7 +33,7 @@
         <!-- Conteúdo Esquerdo -->
         <div class="flex flex-col gap-3 md:gap-4 w-full md:max-w-[686px]">
           <div class="flex items-center justify-center gap-[10px] md:gap-[13px] bg-white rounded-[15px] md:rounded-[20px] p-[8px] md:p-[10px] w-fit max-w-[280px] md:max-w-[334px] h-[32px] md:h-[36px]">
-            <img src="/svg/icon-email.svg" alt="Email" class="w-[24px] md:w-[34px] h-[20px] md:h-[27px]" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
+            <NuxtImg src="/svg/icon-email.svg" alt="Email" class="w-[24px] md:w-[34px] h-[20px] md:h-[27px]" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
             <span class="font-bold text-[14px] md:text-lg text-[#FF5A02] tracking-[0.05em]">Fale Conosco</span>
           </div>
 
@@ -45,12 +45,12 @@
 
           <div class="flex flex-col md:flex-row gap-3 md:gap-4 mt-3 md:mt-4 w-full md:w-auto">
             <button class="flex items-center justify-center gap-[13px] p-[10px] rounded-lg border-none cursor-pointer font-bold text-lg tracking-[0.05em] h-[49px] transition duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-lg bg-white text-[#FF5A02] px-5">
-              <img src="/svg/icon-email.svg" alt="Email" class="w-8 h-[25px]" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
+              <NuxtImg src="/svg/icon-email.svg" alt="Email" class="w-8 h-[25px]" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
               <span>Enviar Email</span>
             </button>
 
             <a href="https://api.whatsapp.com/send/?phone=5519993369603&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-[13px] p-[10px] rounded-lg border-none cursor-pointer font-bold text-lg tracking-[0.05em] h-[49px] transition duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-lg text-white px-5" style="background: linear-gradient(90deg, #1CA908 0%, #1B730F 100%);">
-              <img src="/svg/icon-whatsapp.svg" alt="WhatsApp" class="w-8 h-[25px]" />
+              <NuxtImg src="/svg/icon-whatsapp.svg" alt="WhatsApp" class="w-8 h-[25px]" />
               <span>WhatsApp</span>
             </a>
           </div>
@@ -62,7 +62,7 @@
           <div class="flex flex-row items-center gap-0 bg-white/25 border border-white/60 rounded-[15px] md:rounded-[20px] p-[8px] md:p-[10px] h-[100px] md:h-[132px] backdrop-blur-lg transition-all duration-300 ease-in-out hover:bg-white/35 hover:-translate-x-1 text-left">
             <div class="flex items-center justify-center w-[90px] md:w-[142px] h-[90px] md:h-[120px] relative flex-shrink-0">
               <div class="w-[60px] md:w-[78px] h-[60px] md:h-[78px] bg-white/40 rounded-full flex items-center justify-center relative">
-                <img src="/svg/icon-telefone.svg" alt="Telefone" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
+                <NuxtImg src="/svg/icon-telefone.svg" alt="Telefone" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
               </div>
             </div>
             <div class="flex flex-col gap-1 text-white flex-1 w-full pr-3 md:pr-5">
@@ -76,7 +76,7 @@
           <div class="flex flex-row items-center gap-0 bg-white/25 border border-white/60 rounded-[15px] md:rounded-[20px] p-[8px] md:p-[10px] h-[100px] md:h-[132px] backdrop-blur-lg transition-all duration-300 ease-in-out hover:bg-white/35 hover:-translate-x-1 text-left">
             <div class="flex items-center justify-center w-[90px] md:w-[142px] h-[90px] md:h-[120px] relative flex-shrink-0">
               <div class="w-[60px] md:w-[78px] h-[60px] md:h-[78px] bg-white/40 rounded-full flex items-center justify-center relative">
-                <img src="/svg/icon-email.svg" alt="Email" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
+                <NuxtImg src="/svg/icon-email.svg" alt="Email" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
               </div>
             </div>
             <div class="flex flex-col gap-1 text-white flex-1 w-full pr-3 md:pr-5">
@@ -90,7 +90,7 @@
           <div class="flex flex-row items-center gap-0 bg-white/25 border border-white/60 rounded-[15px] md:rounded-[20px] p-[8px] md:p-[10px] h-[100px] md:h-[132px] backdrop-blur-lg transition-all duration-300 ease-in-out hover:bg-white/35 hover:-translate-x-1 text-left">
             <div class="flex items-center justify-center w-[90px] md:w-[142px] h-[90px] md:h-[120px] relative flex-shrink-0">
               <div class="w-[60px] md:w-[78px] h-[60px] md:h-[78px] bg-white/40 rounded-full flex items-center justify-center relative">
-                <img src="/svg/icon-adress.svg" alt="Localização" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
+                <NuxtImg src="/svg/icon-adress.svg" alt="Localização" class="w-[35px] md:w-[50px] h-[35px] md:h-[50px] relative z-10" style="filter: brightness(0) invert(1);" />
               </div>
             </div>
             <div class="flex flex-col gap-1 text-white flex-1 w-full pr-3 md:pr-5">

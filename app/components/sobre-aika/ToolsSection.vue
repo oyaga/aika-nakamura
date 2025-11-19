@@ -11,120 +11,120 @@
       <div class="flex animate-loop-scroll animate-loop-scroll-mobile md:animate-loop-scroll">
         <!-- Card Claude -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-claude.png" alt="Claude AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-claude.png" alt="Claude AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Gemini -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-google.png" alt="Google Gemini" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-google.png" alt="Google Gemini" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card OpenAI -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-open-ai.png" alt="OpenAI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-open-ai.png" alt="OpenAI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Grok -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-grok.png" alt="Grok AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-grok.png" alt="Grok AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Qwen -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-qwen.png" alt="Qwen AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-qwen.png" alt="Qwen AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Meta -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-meta.png" alt="Meta AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-meta.png" alt="Meta AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Midjourney -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-midjarney.png" alt="Midjourney" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-midjarney.png" alt="Midjourney" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Figma -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-figma.png" alt="Figma" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-figma.png" alt="Figma" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Canva -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-canva.png" alt="Canva" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-canva.png" alt="Canva" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Supabase -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-supabase.png" alt="Supabase" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-supabase.png" alt="Supabase" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card N8N -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-n8n.png" alt="N8N" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-n8n.png" alt="N8N" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card NuxtJS -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-nuxtjs.png" alt="NuxtJS" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-nuxtjs.png" alt="NuxtJS" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Card Cloudflare -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-cloudflare.png" alt="Cloudflare" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-cloudflare.png" alt="Cloudflare" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <!-- Duplicated Cards for seamless loop -->
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-claude.png" alt="Claude AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-claude.png" alt="Claude AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-google.png" alt="Google Gemini" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-google.png" alt="Google Gemini" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-open-ai.png" alt="OpenAI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-open-ai.png" alt="OpenAI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-grok.png" alt="Grok AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-grok.png" alt="Grok AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-qwen.png" alt="Qwen AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-qwen.png" alt="Qwen AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-meta.png" alt="Meta AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-meta.png" alt="Meta AI" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-midjarney.png" alt="Midjourney" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-midjarney.png" alt="Midjourney" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-figma.png" alt="Figma" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-figma.png" alt="Figma" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-canva.png" alt="Canva" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-canva.png" alt="Canva" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-supabase.png" alt="Supabase" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-supabase.png" alt="Supabase" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-n8n.png" alt="N8N" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-n8n.png" alt="N8N" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-nuxtjs.png" alt="NuxtJS" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-nuxtjs.png" alt="NuxtJS" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
 
         <div class="flex-shrink-0 backdrop-blur-[0px] bg-[rgba(210,86,20,0.07)] border border-[rgba(210,86,20,0.8)] rounded-[12px] md:rounded-[20px] w-[280px] md:w-[609px] h-[80px] md:h-[137px] flex items-center justify-center mx-[10px] md:mx-[20px]">
-          <img src="/imagens/ferramentas/logo-cloudflare.png" alt="Cloudflare" class="w-[150px] md:w-[300px] h-auto object-contain" />
+          <NuxtImg src="/imagens/ferramentas/logo-cloudflare.png" alt="Cloudflare" class="w-[150px] md:w-[300px] h-auto object-contain" />
         </div>
       </div>
     </div>
@@ -168,19 +168,19 @@
       <div class="hidden md:block">
         <!-- Badge DESIGNER -->
         <div class="absolute left-[200px] top-[733px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[251px] h-[43px]">
-          <img src="/svg/icon-designer.svg" alt="Designer" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[25px] h-[25px]">
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESIGNER</p>
         </div>
 
         <!-- Badge AGENTE -->
         <div class="absolute left-[416px] top-[979px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[20px] w-[204px] h-[43px]">
-          <img src="/svg/icon-agente.svg" alt="Agente" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[25px] h-[25px]">
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">AGENTE</p>
         </div>
 
         <!-- Badge DESENVOLVEDORA -->
         <div class="absolute left-[1090px] top-[852px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[356px] h-[43px]">
-          <img src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[25px] h-[25px]">
+          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[25px] h-[25px]">
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESENVOLVEDORA</p>
         </div>
       </div>
@@ -189,19 +189,19 @@
       <div class="md:hidden absolute top-[740px] left-1/2 -translate-x-1/2 flex flex-col gap-[12px] items-center w-full px-4 z-40 pb-[50px]">
         <!-- Badge DESIGNER -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[12px] py-[8px] flex items-center justify-center gap-[10px] w-full max-w-[260px] h-[42px] badge-fade-in badge-delay-1 shadow-lg">
-          <img src="/svg/icon-designer.svg" alt="Designer" class="w-[20px] h-[20px]">
+          <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[20px] h-[20px]">
           <p class="font-michroma text-[12px] text-white tracking-[1px] leading-normal">DESIGNER</p>
         </div>
 
         <!-- Badge AGENTE -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[12px] py-[8px] flex items-center justify-center gap-[10px] w-full max-w-[260px] h-[42px] badge-fade-in badge-delay-2 shadow-lg">
-          <img src="/svg/icon-agente.svg" alt="Agente" class="w-[20px] h-[20px]">
+          <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[20px] h-[20px]">
           <p class="font-michroma text-[12px] text-white tracking-[1px] leading-normal">AGENTE</p>
         </div>
 
         <!-- Badge DESENVOLVEDORA -->
         <div class="bg-[rgba(30,30,30,0.9)] rounded-[10px] px-[10px] py-[8px] flex items-center justify-center gap-[6px] w-full max-w-[280px] h-[42px] badge-fade-in badge-delay-3 shadow-lg">
-          <img src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[18px] h-[18px]">
+          <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[18px] h-[18px]">
           <p class="font-michroma text-[10px] text-white tracking-[0.5px] leading-normal whitespace-nowrap">DESENVOLVEDORA</p>
         </div>
       </div>

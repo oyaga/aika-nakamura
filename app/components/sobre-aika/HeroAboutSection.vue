@@ -19,16 +19,16 @@
 
         <!-- Corner Arrows -->
         <div class="absolute flex items-center justify-center left-[2.4%] top-[3.1%] z-40">
-          <img src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-top-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
         <div class="absolute flex items-center justify-center left-[2.8%] bottom-[4%] z-40">
-          <img src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-bottom-left.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
         <div class="absolute flex items-center justify-center right-[2.8%] bottom-[4%] z-40">
-          <img src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-bottom-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
         <div class="absolute flex items-center justify-center right-[2.4%] top-[3.1%] z-40">
-          <img src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
+          <NuxtImg src="/svg/arrow-hud-top-right.svg" alt="Arrow HUD" class="block max-w-none w-[44px] h-[25px]" />
         </div>
 
         <!-- Shadow under Aika -->
@@ -66,17 +66,17 @@
 
         <!-- Badges -->
         <div class="absolute top-[45%] left-[26%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg">
-          <img src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[32px] h-[32px] shrink-0" />
+          <NuxtImg src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[32px] h-[32px] shrink-0" />
           <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,28px)] tracking-[0.56px] leading-normal whitespace-nowrap">Guardiã Digital</span>
         </div>
 
         <div class="absolute top-[43%] left-[60%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg">
-          <img src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[30px] h-[30px] shrink-0" />
+          <NuxtImg src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[30px] h-[30px] shrink-0" />
           <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,30px)] tracking-[0.6px] leading-normal whitespace-nowrap">Execução Impecável</span>
         </div>
 
         <div class="absolute top-[58%] left-[62%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg">
-          <img src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[30px] h-[30px] shrink-0" />
+          <NuxtImg src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[30px] h-[30px] shrink-0" />
           <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,30px)] tracking-[0.6px] leading-normal whitespace-nowrap">Análise Preditiva</span>
         </div>
 

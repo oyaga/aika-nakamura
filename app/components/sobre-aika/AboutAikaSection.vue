@@ -11,7 +11,7 @@
     <div class="container mx-auto px-4 pt-12 md:pt-0 flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16">
       <!-- Image - Largura total no mobile, metade no desktop -->
       <div class="w-full max-w-[320px] md:max-w-none md:w-1/2 fade-in-up">
-        <img src="/imagens/aika-felipe.png" alt="Aika Nakamura" class="w-full h-auto" />
+        <NuxtImg src="/imagens/aika-felipe.png" alt="Aika Nakamura" class="w-full h-auto" />
       </div>
 
       <!-- Content - Largura total no mobile, metade no desktop -->
@@ -30,11 +30,11 @@
         <!-- Buttons - Empilhados verticalmente no mobile, lado a lado no desktop -->
         <div class="flex flex-col md:flex-row gap-4 md:gap-6 pt-4 px-4 md:px-0 fade-in-up delay-400">
           <button @click="scrollToTools" class="flex items-center justify-center gap-4 md:gap-6 px-6 md:px-8 py-3 md:py-4 bg-white/10 border border-white/20 rounded-full text-orange-500 text-[14px] md:text-lg font-normal tracking-[0.1em] md:tracking-[0.14em] backdrop-blur-sm hover:bg-white/20 active:scale-95 transition-all duration-300">
-            <img src="/svg/icon-tools.svg" alt="Ferramentas" class="w-5 h-5 md:w-7 md:h-7" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
+            <NuxtImg src="/svg/icon-tools.svg" alt="Ferramentas" class="w-5 h-5 md:w-7 md:h-7" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
             <span>FERRAMENTAS</span>
           </button>
           <a href="https://api.whatsapp.com/send/?phone=5519993369603&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-4 md:gap-2.5 px-6 md:px-8 py-3 md:py-4 bg-white/10 border border-white/20 rounded-full text-orange-500 text-[14px] md:text-lg font-normal tracking-[0.1em] md:tracking-[0.14em] backdrop-blur-sm hover:bg-white/20 active:scale-95 transition-all duration-300">
-            <img src="/svg/icon-chat.svg" alt="Converse com a Aika" class="w-5 h-5 md:w-7 md:h-7" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
+            <NuxtImg src="/svg/icon-chat.svg" alt="Converse com a Aika" class="w-5 h-5 md:w-7 md:h-7" style="filter: brightness(0) saturate(100%) invert(36%) sepia(95%) saturate(2679%) hue-rotate(1deg) brightness(101%) contrast(103%);" />
             <span>CONVERSE COM A AIKA</span>
           </a>
         </div>

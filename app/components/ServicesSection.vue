@@ -37,7 +37,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-ia-assistente.svg" alt="IA Assistente" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-ia-assistente.svg" alt="IA Assistente" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
@@ -106,7 +106,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-web-designer.svg" alt="Web Designer" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-web-designer.svg" alt="Web Designer" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
@@ -175,7 +175,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-servidores.svg" alt="Servidores" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-servidores.svg" alt="Servidores" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
@@ -244,7 +244,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-design-grafico.svg" alt="Design Gráfico" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-design-grafico.svg" alt="Design Gráfico" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
@@ -314,7 +314,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-editor-de-video.svg" alt="Editor de Vídeo" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-editor-de-video.svg" alt="Editor de Vídeo" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
@@ -384,7 +384,7 @@
             <!-- Icon -->
             <div class="mb-[20px]">
               <div class="w-[80px] h-[80px] bg-[#ff5a02]/10 rounded-[15px] flex items-center justify-center backdrop-blur-sm border border-[#ff5a02]/20">
-                <img src="/svg/icon-google.svg" alt="Google" class="w-[50px] h-[50px]" />
+                <NuxtImg src="/svg/icon-google.svg" alt="Google" class="w-[50px] h-[50px]" />
               </div>
             </div>
 
