@@ -44,29 +44,29 @@
         <!-- Main Character Section -->
       <div class="absolute left-1/2 -translate-x-1/2 size-[400px] top-[150px]" data-name="Bem-Vindo Aika">
         <!-- Neon Background Effects -->
-        <div class="absolute left-[60px] top-[55px]">
-          <div class="absolute size-[295px]">
+        <div class="absolute left-1/2 -translate-x-1/2 top-[55px] w-[295px] h-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-10.17%]">
               <img alt="" class="block max-w-none size-full" :src="imgSpread" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-2.88%]">
               <img alt="" class="block max-w-none size-full" :src="imgIntensity" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <div class="absolute inset-[-43.59%]">
               <img alt="" class="block max-w-none size-full" :src="imgOriginal" />
             </div>
           </div>
-          <div class="absolute size-[295px]">
+          <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 size-[295px]">
             <img alt="" class="block max-w-none size-full" height="295" :src="imgEllipse6" width="295" />
           </div>
         </div>
 
         <!-- Samurai Character Image -->
-        <div class="absolute left-[-18px] size-[434px] top-[10px]">
+        <div class="absolute left-1/2 -translate-x-1/2 size-[434px] top-[10px]">
           <img
             alt="Aika Nakamura Mascote"
             class="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full floating-mascot"
@@ -76,23 +76,23 @@
       </div>
 
         <!-- Badges -->
-        <div class="absolute bottom-[15%] left-1/2 -translate-x-1/2 flex flex-col gap-[30px] items-center justify-center z-30">
+        <div class="absolute bottom-[10%] left-1/2 -translate-x-1/2 flex flex-col gap-[15px] items-center justify-center z-30 w-[90%] max-w-[340px]">
           <!-- Badge - Guardiã Digital -->
-          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[10px] py-[10px] gap-[13px] h-[43px] w-[290px] overflow-clip badge-animate badge-delay-1">
-            <img src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[32px] h-[32px] shrink-0" />
-            <span class="text-white font-['Inter'] font-light text-[28px] tracking-[0.56px] leading-normal whitespace-nowrap">Guardiã Digital</span>
+          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-1">
+            <img src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[24px] h-[24px] shrink-0" />
+            <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Guardiã Digital</span>
           </div>
 
           <!-- Badge - Execução Impecável -->
-          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[10px] py-[10px] gap-[13px] h-[43px] w-full overflow-clip badge-animate badge-delay-2">
-            <img src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[30px] h-[30px] shrink-0" />
-            <span class="text-white font-['Inter'] font-light text-[30px] tracking-[0.6px] leading-normal whitespace-nowrap">Execução Impecável</span>
+          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-2">
+            <img src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[24px] h-[24px] shrink-0" />
+            <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Execução Impecável</span>
           </div>
 
           <!-- Badge - Análise Preditiva -->
-          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[10px] py-[10px] gap-[13px] h-[43px] w-[319px] overflow-clip badge-animate badge-delay-3">
-            <img src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[30px] h-[30px] shrink-0" />
-            <span class="text-white font-['Inter'] font-light text-[30px] tracking-[0.6px] leading-normal whitespace-nowrap">Análise Preditiva</span>
+          <div class="bg-[rgba(30,30,30,0.8)] rounded-[10px] flex items-center justify-center px-[15px] py-[8px] gap-[10px] w-full overflow-clip badge-animate badge-delay-3">
+            <img src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[24px] h-[24px] shrink-0" />
+            <span class="text-white font-['Inter'] font-normal text-[18px] tracking-[0.36px] leading-normal whitespace-nowrap">Análise Preditiva</span>
           </div>
         </div>
 
