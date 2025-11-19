@@ -18,7 +18,7 @@ export default defineNuxtConfig({
         // Open Graph
         { property: 'og:title', content: 'Aika - Agência de Criação de Sites, Aplicativos e Sistemas com IA' },
         { property: 'og:description', content: 'Potencialize seu negócio com a Aika. Somos especialistas na criação de sites, aplicativos e sistemas personalizados, integrando inteligência artificial para resultados incríveis.' },
-        { property: 'og:image', content: '/aika-samurai-v2.png' }, // Assuming a default image in public folder
+        { property: 'og:image', content: '/imagens/aika-ophen-graph.png' },
         { property: 'og:type', content: 'website' }
       ]
     }
