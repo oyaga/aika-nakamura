@@ -20,7 +20,7 @@
         <!-- WhatsApp -->
         <a href="https://wa.me/5519993369603" target="_blank" class="bg-white/10 backdrop-blur-sm border border-white/30 rounded-2xl p-6 text-center text-white flex flex-col items-center justify-center h-64">
           <div class="w-24 h-24 rounded-full bg-white/10 border border-white/50 flex items-center justify-center mb-4">
-            <NuxtImg src="/svg/icon-whatsapp.svg" alt="WhatsApp" class="h-12 w-12">
+            <NuxtImg src="/svg/icon-whatsapp.svg" alt="WhatsApp" class="h-12 w-12" />
           </div>
           <h3 class="text-2xl font-bold">WhatsApp</h3>
           <p class="text-lg">(19) 99336-9603</p>
@@ -29,7 +29,7 @@
         <!-- E-mail -->
         <a href="mailto:felipe.kenji@hotmail.com" class="bg-white/10 backdrop-blur-sm border border-white/30 rounded-2xl p-6 text-center text-white flex flex-col items-center justify-center h-64">
           <div class="w-24 h-24 rounded-full bg-white/10 border border-white/50 flex items-center justify-center mb-4">
-            <NuxtImg src="/svg/icon-email.svg" alt="E-mail" class="h-12 w-12" style="filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);">
+            <NuxtImg src="/svg/icon-email.svg" alt="E-mail" class="h-12 w-12" style="filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);" />
           </div>
           <h3 class="text-2xl font-bold">E-mail</h3>
           <p class="text-lg">felipe.kenji@hotmail.com</p>
@@ -38,7 +38,7 @@
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/felipenakamura/" target="_blank" class="bg-white/10 backdrop-blur-sm border border-white/30 rounded-2xl p-6 text-center text-white flex flex-col items-center justify-center h-64">
           <div class="w-24 h-24 rounded-full bg-white/10 border border-white/50 flex items-center justify-center mb-4">
-            <NuxtImg src="/svg/icon-linkedin.svg" alt="LinkedIn" class="h-12 w-12">
+            <NuxtImg src="/svg/icon-linkedin.svg" alt="LinkedIn" class="h-12 w-12" />
           </div>
           <h3 class="text-2xl font-bold">LinkedIn</h3>
           <p class="text-lg">/felipenakamura</p>
@@ -47,7 +47,7 @@
         <!-- GitHub -->
         <a href="https://github.com/oyaga" target="_blank" class="bg-white/10 backdrop-blur-sm border border-white/30 rounded-2xl p-6 text-center text-white flex flex-col items-center justify-center h-64">
           <div class="w-24 h-24 rounded-full bg-white/10 border border-white/50 flex items-center justify-center mb-4">
-            <NuxtImg src="/svg/icon-github.svg" alt="GitHub" class="h-12 w-12">
+            <NuxtImg src="/svg/icon-github.svg" alt="GitHub" class="h-12 w-12" />
           </div>
           <h3 class="text-2xl font-bold">GitHub</h3>
           <p class="text-lg">/oyaga</p>
