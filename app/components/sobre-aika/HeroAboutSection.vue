@@ -43,7 +43,7 @@
           </div>
 
           <!-- Ellipse Glow -->
-          <div class="absolute top-[18.5%] left-1/2 -translate-x-1/2 -ml-[317px] w-[32.5vw] h-[32.1vw] max-w-[624px] max-h-[616px]">
+          <div class="absolute top-[18.5%] left-1/2 -translate-x-1/2 w-[32.5vw] h-[32.1vw] max-w-[624px] max-h-[616px]">
             <div class="absolute inset-[-1.83% -1.81%]">
               <img
                 alt="Glow"
@@ -67,17 +67,17 @@
 
           <!-- Badges Container - Pointer events auto for interactivity if needed -->
           <div class="absolute inset-0 pointer-events-none">
-            <div class="absolute top-[45%] left-1/2 -translate-x-1/2 -ml-[460px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+            <div class="absolute top-[45%] left-[57%] -translate-x-1/2 -ml-[420px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
               <NuxtImg src="/svg/icon-guardian-digital.svg" alt="Guardiã Digital" class="w-[32px] h-[32px] shrink-0" />
               <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,28px)] tracking-[0.56px] leading-normal whitespace-nowrap">Guardiã Digital</span>
             </div>
 
-            <div class="absolute top-[43%] left-1/2 -translate-x-1/2 ml-[192px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+            <div class="absolute top-[40%] left-[47%] -translate-x-1/2 ml-[380px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
               <NuxtImg src="/svg/icon-execucao-impecavel.svg" alt="Execução Impecável" class="w-[30px] h-[30px] shrink-0" />
               <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,30px)] tracking-[0.6px] leading-normal whitespace-nowrap">Execução Impecável</span>
             </div>
 
-            <div class="absolute top-[58%] left-1/2 -translate-x-1/2 ml-[230px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+            <div class="absolute top-[55%] left-[45%] -translate-x-1/2 ml-[400px] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[13px] h-[43px] w-auto justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
               <NuxtImg src="/svg/icon-analitcs-preditiva.svg" alt="Análise Preditiva" class="w-[30px] h-[30px] shrink-0" />
               <span class="text-white font-['Inter'] font-light text-[clamp(18px,1.5vw,30px)] tracking-[0.6px] leading-normal whitespace-nowrap">Análise Preditiva</span>
             </div>
