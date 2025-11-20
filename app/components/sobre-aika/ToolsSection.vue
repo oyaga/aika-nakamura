@@ -139,19 +139,19 @@
         </div>
       </div>
       <!-- Desktop -->
-      <div class="hidden md:block absolute left-[458px] top-[1225px] w-[925px] h-[145px]">
+      <div class="hidden md:block absolute left-1/2 -translate-x-1/2 top-[1225px] w-[925px] h-[145px]">
         <div class="absolute inset-[-2.76%_-0.43%] opacity-50">
           <div class="w-full h-full bg-[radial-gradient(ellipse_at_center,_rgba(0,0,0,0.8)_0%,_transparent_70%)] blur-md"></div>
         </div>
       </div>
 
       <!-- Círculo externo com gradiente -->
-      <div class="absolute left-1/2 -translate-x-1/2 top-[250px] md:top-[390px] w-[400px] h-[400px] md:w-[928px] md:h-[928px] md:left-[280px] md:translate-x-0">
+      <div class="absolute left-1/2 -translate-x-1/2 top-[250px] md:top-[390px] w-[400px] h-[400px] md:w-[928px] md:h-[928px]">
         <div class="w-full h-full rounded-full bg-gradient-to-b from-[rgba(139,69,19,0.4)] to-[rgba(210,105,30,0.2)]"></div>
       </div>
 
       <!-- Círculo interno com borda -->
-      <div class="absolute left-1/2 -translate-x-1/2 top-[250px] md:top-[390px] w-[400px] h-[400px] md:w-[928px] md:h-[928px] md:left-[280px] md:translate-x-0">
+      <div class="absolute left-1/2 -translate-x-1/2 top-[250px] md:top-[390px] w-[400px] h-[400px] md:w-[928px] md:h-[928px]">
         <div class="w-full h-full rounded-full border border-[rgba(255,255,255,0.3)]"></div>
       </div>
 
@@ -165,21 +165,21 @@
       </div>
 
       <!-- Badges - Desktop positioning -->
-      <div class="hidden md:block">
+      <div class="hidden md:block absolute left-1/2 top-[350px] -translate-x-1/2 w-[1080px] h-[1080px] pointer-events-none">
         <!-- Badge DESIGNER -->
-        <div class="absolute left-[200px] top-[733px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[251px] h-[43px]">
+        <div class="absolute left-0 top-[383px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[251px] h-[43px] pointer-events-auto">
           <NuxtImg src="/svg/icon-designer.svg" alt="Designer" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESIGNER</p>
         </div>
 
         <!-- Badge AGENTE -->
-        <div class="absolute left-[416px] top-[979px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[20px] w-[204px] h-[43px]">
+        <div class="absolute left-[212px] top-[629px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[20px] w-[204px] h-[43px] pointer-events-auto">
           <NuxtImg src="/svg/icon-agente.svg" alt="Agente" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">AGENTE</p>
         </div>
 
         <!-- Badge DESENVOLVEDORA -->
-        <div class="absolute left-[1090px] top-[852px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[356px] h-[43px]">
+        <div class="absolute left-[886px] top-[502px] bg-[rgba(30,30,30,0.8)] rounded-[10px] px-[10px] py-[10px] flex items-center justify-center gap-[5px] w-[356px] h-[43px] pointer-events-auto">
           <NuxtImg src="/svg/icon-dev.svg" alt="Desenvolvedora" class="w-[25px] h-[25px]" />
           <p class="font-michroma text-[18px] text-white tracking-[2.34px] leading-normal">DESENVOLVEDORA</p>
         </div>
