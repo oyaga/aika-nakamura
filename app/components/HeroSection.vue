@@ -61,19 +61,19 @@
     </div>
 
     <!-- Badges Container -->
-    <div class="absolute left-1/2 top-[55%] -translate-x-1/2 -translate-y-1/2 w-full max-w-[1920px] h-full pointer-events-none">
+    <div class="absolute left-1/2 top-[55%] -translate-x-1/2 -translate-y-1/2 w-full max-w-[1920px] h-full pointer-events-none z-50">
       <!-- Badge CRIATIVIDADE (esquerda superior) -->
-      <div class="absolute top-[30%] left-[8%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[260px] justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+      <div class="absolute top-[25%] left-[25%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[260px] justify-center overflow-hidden z-50 shadow-lg pointer-events-auto">
         <NuxtImg src="/svg/icon-criatividade.svg" alt="Criatividade" class="w-[25px] h-[25px] shrink-0" />
         <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">CRIATIVIDADE</span>
       </div>
       <!-- Badge INOVAÇÃO (direita meio) -->
-      <div class="absolute top-[45%] right-[12%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[44px] w-[243px] justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+      <div class="absolute top-[48%] right-[22%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[44px] w-[243px] justify-center overflow-hidden z-50 shadow-lg pointer-events-auto">
         <NuxtImg src="/svg/icon-foguete.svg" alt="Inovação" class="w-[25px] h-[25px] shrink-0" />
         <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">INOVAÇÃO</span>
       </div>
       <!-- Badge VELOCIDADE (direita inferior) -->
-      <div class="absolute top-[63%] right-[10%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[249px] justify-center overflow-hidden z-30 shadow-lg pointer-events-auto">
+      <div class="absolute top-[63%] right-[25%] bg-[rgba(30,30,30,0.85)] rounded-[10px] flex items-center px-[12px] py-[10px] gap-[6px] h-[43px] w-[249px] justify-center overflow-hidden z-50 shadow-lg pointer-events-auto">
         <NuxtImg src="/svg/icon-velocidade.svg" alt="Velocidade" class="w-[20px] h-[28px] shrink-0" />
         <span class="text-white font-['Michroma'] text-[18px] tracking-[0.13em] leading-normal">VELOCIDADE</span>
       </div>
